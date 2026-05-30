@@ -194,10 +194,10 @@ Currently:
 # 🎯 Current Goals
 
 ```text
-✓ Strengthening problem-solving and DSA
+✓ Advancing expertise in data structures, algorithms, and system design
 ✓ Building production-grade AI systems
 ✓ Learning distributed and scalable architectures
-✓ Contributing to impactful software projects
+✓ Exploring low-level systems and optimization
 ✓ Preparing for top product-based engineering roles
 ```
 
